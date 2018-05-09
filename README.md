@@ -4,6 +4,15 @@ A tool for automatic distribution of cluster resources accross all Pacemaker nod
 ##Requirements
 ### golang installed
 
+### Go packages
+#### bufio
+#### fmt
+#### os
+#### github.com/Songmu/prompter
+#### github.com/danyboy1104/tree
+#### filepath
+
+
 ##Installing
 ###1. Build cluster_resource_allocator.go using golang
 ###2. Copy script cluster_get_nodes_resources.sh on same directory as cluster_resource_allocator binary.
