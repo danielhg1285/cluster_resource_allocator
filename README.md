@@ -5,11 +5,11 @@ A tool for automatic distribution of cluster resources accross all Pacemaker nod
 ### golang installed
 
 ### Go packages
-bufio 
-fmt 
-os 
-github.com/Songmu/prompter 
-github.com/danyboy1104/tree 
+bufio  
+fmt  
+os  
+github.com/Songmu/prompter  
+github.com/danyboy1104/tree  
 filepath
 
 
