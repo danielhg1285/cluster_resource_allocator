@@ -15,10 +15,10 @@ filepath
 
 ## Installing
 ### 1. Build cluster_resource_allocator.go using golang
-### 2. Copy script cluster_get_nodes_resources.sh on same directory as cluster_resource_allocator binary.
+### 2. Copy script `cluster_get_nodes_resources.sh` on same directory as `cluster_resource_allocator` binary.
 
 ## Usage
-### 3. Execute cluster_resource_allocator binary
+### 3. Execute `cluster_resource_allocator` binary
 ```bash
 ./cluster_resource_allocator
 ```
